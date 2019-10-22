@@ -1,0 +1,23 @@
+from,to,weight
+Dr House,Dr Cuddy,2
+Dr House,Dr Wilson,2
+Dr House,Dr Foreman,1
+Dr Wilson,Dr House,2
+Dr Wilson,Dr Cuddy,3
+Dr Cuddy,Dr Wilson,3
+Dr Cuddy,Dr House,2
+Dr Wilson,Dr Foreman,1
+Dr Cuddy,Dr Foreman,2
+Dr Cuddy,Dr Chase,1
+Dr Foreman,Dr Cuddy,2
+Dr Foreman,Dr House,1
+Dr Foreman,Dr Wilson,1
+Dr Foreman,Dr Chase,1
+Dr Foreman,Dr Cameron,1
+Dr Chase,Dr Cuddy,1
+Dr Chase,Dr Cameron,3
+Dr Cameron,Dr Foreman,1
+Dr Cameron,Dr Chase,3
+Dr Chase,Dr Foreman,1
+Dr Cameron,Dr House,2
+Dr House,Dr Cameron,2
